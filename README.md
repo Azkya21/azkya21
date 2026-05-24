@@ -1,77 +1,207 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=AZKYA%20PRATAMA&fontColor=00F7FF&fontSize=55&animation=fadeIn&fontAlignY=40"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:080808,50:6C63FF,100:00F7FF&text=AZKYA21&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=40"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=RPL+Student;Learning+Laravel;JavaScript+Basic+Learner;Future+Web+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=2500&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=RPL+Student;Laravel+Learner;JavaScript+Basic;Web+Developer+in+Progress;Code+Learn+Build+Repeat)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-<img align="right" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<table>
+<tr>
+<td width="55%">
 
-# 💫 About Me
+# `< HELLO_WORLD />`
+
+## Hi, I'm **Azkya** 👋
+
+💻 **RPL Student**
+
+🚀 **Laravel Learner**
+
+⚡ **JavaScript Basic**
+
+🌙 Building projects & learning web development.
+
+```bash
+azkya21@github:~$ whoami
+
+> Web Developer Student
+```
+
+<br>
+
+<a href="https://github.com/azkya21">
+<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript_Basic-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+</td>
+
+<td width="45%">
+
+<img src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif" width="100%">
+
+</td>
+</tr>
+</table>
+
+---
+
+# ⚡ TECH STACK
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode,bootstrap"/>
+
+</div>
+
+---
+
+# 🖥️ CYBER DASHBOARD
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=azkya21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkya21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📚 CURRENTLY LEARNING
 
 ```javascript
 const azkya = {
-   role: "RPL Student",
-   learning: ["HTML","CSS","JavaScript Basic","PHP","Laravel"],
-   database: ["MySQL"],
-   tools: ["Git","GitHub","VS Code"],
-   currentlyLearning: "Web Development",
-   goal: "Become Web Developer"
+
+ role: "RPL Student",
+
+ learning: [
+   "Laravel",
+   "PHP",
+   "JavaScript Basic",
+   "MySQL"
+ ],
+
+ tools: [
+   "Git",
+   "GitHub",
+   "VS Code"
+ ],
+
+ goal: "Become Web Developer"
+
 };
 ```
 
-💻 Interested in **Web Development**
+</td>
 
-🚀 Currently learning **Laravel, PHP, JavaScript Basic**
+<td width="50%">
 
-📚 Building projects & improving coding skills
+## 🔥 LEARNING STATUS
 
-🔥 Learning step by step every day
+🟣 Laravel ▰▰▰▰▰▱▱▱▱ 55%
 
----
+🔵 PHP ▰▰▰▰▰▰▱▱▱ 65%
 
-# ⚡ Tech Stack
+🟡 JavaScript ▰▰▰▰▱▱▱▱▱ 45%
 
-<div align="center">
+🔷 MySQL ▰▰▰▰▰▱▱▱▱ 60%
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode"/>
+⚫ GitHub ▰▰▰▰▰▰▱▱▱ 70%
 
-</div>
+</td>
 
----
-
-# 📚 Currently Learning
-
-✔ HTML
-
-✔ CSS
-
-✔ JavaScript Basic
-
-✔ PHP
-
-✔ Laravel
-
-✔ MySQL
+</tr>
+</table>
 
 ---
 
-# 📊 GitHub Stats
+# 🚀 FEATURED PROJECTS
 
-<div align="center">
+<table>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=azkya21&show_icons=true&theme=tokyonight&hide_border=true"/>
+<tr>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkya21&layout=compact&theme=tokyonight&hide_border=true"/>
+<td width="50%">
 
-</div>
+### 📚 Sistem Perpustakaan Laravel
+
+Library management application.
+
+**Stack:** Laravel • MySQL
+
+</td>
+
+<td width="50%">
+
+### 📋 Dashboard Admin
+
+Admin CRUD dashboard project.
+
+**Stack:** Laravel • Bootstrap
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### 🖥️ PHP Native Project
+
+Simple PHP web application.
+
+**Stack:** PHP Native
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Website
+
+Personal portfolio website.
+
+**Stack:** HTML • CSS • JS
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🔥 GitHub Streak
+# ☕ JAVASCRIPT BASIC MODE
+
+```javascript
+let semangat = true;
+
+if(semangat){
+
+ console.log("Keep Learning 🚀");
+
+}else{
+
+ console.log("Try Again 💪");
+
+}
+```
+
+---
+
+# 🔥 GITHUB STREAK
 
 <div align="center">
 
@@ -81,61 +211,36 @@ const azkya = {
 
 ---
 
-# 🚀 Featured Projects
+# 📈 CONTRIBUTION GRAPH
 
-📚 Sistem Perpustakaan Laravel
+<div align="center">
 
-📋 Dashboard Admin
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=azkya21&theme=tokyo-night&hide_border=true"/>
 
-🌐 Portfolio Website
-
-🖥️ PHP Native Project
+</div>
 
 ---
 
-# ☕ JavaScript Beginner Mode
+# 💻 TERMINAL
 
-```javascript
-let nama = "Azkya";
+```bash
+azkya21@github:~$ cat motto.txt
 
-if(nama === "Azkya"){
-   console.log("Keep Learning 🚀");
-}else{
-   console.log("Practice More");
-}
+Keep learning.
+Keep building.
+Never stop coding.
+
+azkya21@github:~$
 ```
 
 ---
 
-# 🐍 Contribution Snake
-
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+### ⚡ CODE • LEARN • BUILD • REPEAT ⚡
+
+<img src="https://komarev.com/ghpvc/?username=azkya21&label=PROFILE+VIEWS&color=blueviolet&style=flat"/>
 
 </div>
 
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/azkya21">
-
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ KEEP LEARNING • KEEP BUILDING • NEVER STOP CODING ⚡
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00F7FF,50:6C63FF,100:080808"/>
