@@ -1,68 +1,141 @@
-<h1 align="center">Hi 👋, I'm Azkya</h1>
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Web+Developer+Student;Laravel+Enthusiast;PHP+%7C+MySQL+%7C+GitHub;Always+Learning+New+Things)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0F2027,50:203A43,100:2C5364&text=AZKYA%20PRATAMA&fontColor=00F7FF&fontSize=55&animation=fadeIn&fontAlignY=40"/>
 
-<img align="right" alt="Coding" width="380"
-src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=RPL+Student;Learning+Laravel;JavaScript+Basic+Learner;Future+Web+Developer)](https://git.io/typing-svg)
 
-### 💫 About Me
-
-💻 RPL Student / Web Developer Student
-
-🌱 Currently learning **Laravel, PHP, MySQL**
-
-🚀 Building **Web Applications**
-
-📚 Improving coding skills every day
-
-🎯 Future **Fullstack Developer**
+</div>
 
 ---
 
-### 🛠 Tech Stack
+<img align="right" width="420" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+# 💫 About Me
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+```javascript
+const azkya = {
+   role: "RPL Student",
+   learning: ["HTML","CSS","JavaScript Basic","PHP","Laravel"],
+   database: ["MySQL"],
+   tools: ["Git","GitHub","VS Code"],
+   currentlyLearning: "Web Development",
+   goal: "Become Web Developer"
+};
+```
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+💻 Interested in **Web Development**
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+🚀 Currently learning **Laravel, PHP, JavaScript Basic**
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+📚 Building projects & improving coding skills
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=azkya21&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=azkya21&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=azkya21&layout=compact&theme=tokyonight)
-
----
-
-### 🚀 Featured Projects
-
-📚 **Sistem Perpustakaan Laravel**
-
-📋 **Sistem Absensi**
-
-🖥️ **Dashboard Admin**
-
-🌐 **Portfolio Website**
+🔥 Learning step by step every day
 
 ---
 
-### 🌐 Connect With Me
+# ⚡ Tech Stack
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/azkya21)
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,git,github,vscode"/>
+
+</div>
 
 ---
 
-<p align="center">
-🔥 Keep Learning • Keep Building • Never Stop Coding 🔥
-</p>
+# 📚 Currently Learning
+
+✔ HTML
+
+✔ CSS
+
+✔ JavaScript Basic
+
+✔ PHP
+
+✔ Laravel
+
+✔ MySQL
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=azkya21&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=azkya21&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=azkya21&theme=tokyonight_duo&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+📚 Sistem Perpustakaan Laravel
+
+📋 Dashboard Admin
+
+🌐 Portfolio Website
+
+🖥️ PHP Native Project
+
+---
+
+# ☕ JavaScript Beginner Mode
+
+```javascript
+let nama = "Azkya";
+
+if(nama === "Azkya"){
+   console.log("Keep Learning 🚀");
+}else{
+   console.log("Practice More");
+}
+```
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg">
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/azkya21">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ KEEP LEARNING • KEEP BUILDING • NEVER STOP CODING ⚡
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:2C5364,50:203A43,100:0F2027"/>
+
